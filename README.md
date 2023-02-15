@@ -48,3 +48,7 @@ Apple Wood Fence Rail
 Aspen Wood Fence Rail
 Jungle Wood Fence Rail
 Pine Wood Fence Rail
+
+The textures Realistic 512px and Realistic 1024px are under a free license EUPL-1.2
+
+
